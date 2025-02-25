@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "278338625204",
+    "firebase_url": "https://safetrack-c363a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "safetrack-c363a",
+    "storage_bucket": "safetrack-c363a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278338625204:android:919b2805b97f396086c1e1",
+        "android_client_info": {
+          "package_name": "com.example.capstone_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278338625204-od8c9vhhm4npj7h6acrgn2e821vi629d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstone_1",
+            "certificate_hash": "efc964b48785dfb1c29a0284949deb03fcb5d5e6"
+          }
+        },
+        {
+          "client_id": "278338625204-r7l7p8e6m5qelfg21qnhhhm329vftrh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_TTIp2nVAEcooFTbTCMB_mZrS0FSXo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278338625204-r7l7p8e6m5qelfg21qnhhhm329vftrh4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278338625204-ro1gfk3qdfuplbchfiqik3d3kfpbkgce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.capstone1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
